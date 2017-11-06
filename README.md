@@ -1,3 +1,13 @@
+# Depricated: 
+
+-----
+
+This project was based on OpenShift v2, a new version is available 
+for [OpenShift Container Platform](https://github.com/redhatdemocentral/rhcs-travel-agency-demo).
+
+-----
+
+
 Cartridge for bpmPaaS with Travel Agency Demo
 =============================================
 This cartridge provides the **_Red Hat JBoss BPM Suite_** for easy deployment to OpenShift based bpmPaaS with pre-loaded Travel Agency Demo.
